@@ -43,6 +43,7 @@ plt.plot(ts1, v1, label='Velocity')
 plt.xlabel('Time (t)')
 plt.title('Explicit Euler Method')
 plt.legend(loc=3)
+plt.savefig('exp_euler.eps')
 plt.show()
     
 # Problem 2
@@ -72,6 +73,7 @@ plt.xlabel('Time (t)')
 plt.ylabel('Error')
 plt.title('Explicit Euler Method Error')
 plt.legend(loc=3)
+plt.savefig('exp_euler_err.eps')
 plt.show()
 
 # Problem 3
@@ -86,6 +88,7 @@ plt.plot(hvals, maxErr)
 plt.xlabel('Time Step')
 plt.ylabel('Maximum Error')
 plt.title('Explicit Euler Method Maximum Error')
+plt.savefig('exp_euler_max_err.eps')
 plt.show()
 
 # Problem 4
@@ -96,6 +99,7 @@ plt.plot(ts1, energy1)
 plt.xlabel('Time')
 plt.ylabel('Energy')
 plt.title('Explicit Euler Method Energy')
+plt.savefig('exp_euler_energy.eps')
 plt.show()
 
 # Problem 5
@@ -132,6 +136,7 @@ plt.plot(ts2, v2, label='Velocity')
 plt.xlabel('Time (t)')
 plt.title('Implicit Euler Method')
 plt.legend(loc=4)
+plt.savefig('imp_euler.eps')
 plt.show()
 
 (errX2, errV2) = eulerError(x2, v2, ts2)
@@ -142,6 +147,7 @@ plt.xlabel('Time (t)')
 plt.ylabel('Error')
 plt.title('Implicit Euler Method Error')
 plt.legend(loc=3)
+plt.savefig('imp_euler_err.eps')
 plt.show()
 
 hvals = np.array([.1, (.1 / 2), (.1 / 4), (.1 / 8), (.1 / 16)])
@@ -155,6 +161,7 @@ plt.plot(hvals, maxErr)
 plt.xlabel('Time Step')
 plt.ylabel('Maximum Error')
 plt.title('Implicit Euler Method Maximum Error')
+plt.savefig('imp_euler_max_err.eps')
 plt.show()
 
 energy2 = (x2**2) + (v2**2)
@@ -163,6 +170,7 @@ plt.plot(ts2, energy2)
 plt.xlabel('Time')
 plt.ylabel('Energy')
 plt.title('Implicit Euler Method Energy')
+plt.savefig('imp_euler_energy.eps')
 plt.show()
 
 # Part 2
@@ -176,6 +184,7 @@ plt.ylabel('Velocity')
 plt.plot(x2, v2, label='Implicit Euler Method')
 plt.legend(loc=1)
 plt.title('Explicit and Implicit Euler Method Phase Space')
+plt.savefig('exp_imp_phase.eps')
 plt.show()
 
 # Problem 2
@@ -211,6 +220,7 @@ plt.plot(x3, v3)
 plt.xlabel('Displacement')
 plt.ylabel('Velocity')
 plt.title('Sympletic Euler Method Phase Space')
+plt.savefig('symp_phase.eps')
 plt.show()
 
 # Problem 3
@@ -220,6 +230,7 @@ plt.plot(ts3, energy)
 plt.xlabel('Time')
 plt.ylabel('Energy')
 plt.title('Sympletic Euler Method Energy vs. Time')
+plt.savefig('symp_energy.eps')
 plt.show()
     
 
