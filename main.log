@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  13 NOV 2017 01:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  18 NOV 2017 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -337,12 +337,6 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-! Illegal parameter number in definition of \@title.
-<to be read again> 
-                   3
-l.4 \title{Ph20 Problem Set #3}
-                               
-? 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip43
@@ -1443,8 +1437,7 @@ LaTeX Info: Redefining \] on input line 2740.
 . 
 . Defining command \homework with sig. '' on line 764.
 .................................................
-)
-No file main.aux.
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -1459,7 +1452,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
-(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count129
 \scratchdimen=\dimen145
@@ -1519,26 +1512,237 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-! You can't use `macro parameter character #' in horizontal mode.
-\@title ->Ph20 Problem Set ##
-                             3
-l.14 \maketitle
-               
-? 
-! Emergency stop.
-\@title ->Ph20 Problem Set ##
-                             3
-l.14 \maketitle
-               
-End of file on the terminal!
+Package epstopdf Info: Source file: <exp_euler.eps>
+(epstopdf)                    date: 2017-11-13 00:41:19
+(epstopdf)                    size: 27514 bytes
+(epstopdf)             Output file: <exp_euler-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:00
+(epstopdf)                    size: 19580 bytes
+(epstopdf)             Command: <repstopdf --outfile=exp_euler-eps-converted-to
+.pdf exp_euler.eps>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
 
- 
+<exp_euler-eps-converted-to.pdf, id=1, 433.62pt x 289.08pt>
+File: exp_euler-eps-converted-to.pdf Graphic file (type pdf)
+
+<use exp_euler-eps-converted-to.pdf>
+Package pdftex.def Info: exp_euler-eps-converted-to.pdf used on input line 22.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+Package epstopdf Info: Source file: <exp_euler_err.eps>
+(epstopdf)                    date: 2017-11-13 00:41:19
+(epstopdf)                    size: 27847 bytes
+(epstopdf)             Output file: <exp_euler_err-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:01
+(epstopdf)                    size: 19021 bytes
+(epstopdf)             Command: <repstopdf --outfile=exp_euler_err-eps-converte
+d-to.pdf exp_euler_err.eps>
+(epstopdf)             \includegraphics on input line 33.
+Package epstopdf Info: Output file is already uptodate.
+
+<exp_euler_err-eps-converted-to.pdf, id=2, 433.62pt x 289.08pt>
+File: exp_euler_err-eps-converted-to.pdf Graphic file (type pdf)
+
+<use exp_euler_err-eps-converted-to.pdf>
+Package pdftex.def Info: exp_euler_err-eps-converted-to.pdf used on input line 
+33.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+Package epstopdf Info: Source file: <exp_euler_max_err.eps>
+(epstopdf)                    date: 2017-11-13 00:41:19
+(epstopdf)                    size: 20372 bytes
+(epstopdf)             Output file: <exp_euler_max_err-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:02
+(epstopdf)                    size: 15725 bytes
+(epstopdf)             Command: <repstopdf --outfile=exp_euler_max_err-eps-conv
+erted-to.pdf exp_euler_max_err.eps>
+(epstopdf)             \includegraphics on input line 42.
+Package epstopdf Info: Output file is already uptodate.
+
+<exp_euler_max_err-eps-converted-to.pdf, id=3, 433.62pt x 289.08pt>
+File: exp_euler_max_err-eps-converted-to.pdf Graphic file (type pdf)
+
+<use exp_euler_max_err-eps-converted-to.pdf>
+Package pdftex.def Info: exp_euler_max_err-eps-converted-to.pdf used on input l
+ine 42.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+ [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./exp_e
+uler-eps-converted-to.pdf> <./exp_euler_err-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <exp_euler_energy.eps>
+(epstopdf)                    date: 2017-11-13 00:41:19
+(epstopdf)                    size: 21712 bytes
+(epstopdf)             Output file: <exp_euler_energy-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:02
+(epstopdf)                    size: 16606 bytes
+(epstopdf)             Command: <repstopdf --outfile=exp_euler_energy-eps-conve
+rted-to.pdf exp_euler_energy.eps>
+(epstopdf)             \includegraphics on input line 51.
+Package epstopdf Info: Output file is already uptodate.
+
+<exp_euler_energy-eps-converted-to.pdf, id=92, 433.62pt x 289.08pt>
+File: exp_euler_energy-eps-converted-to.pdf Graphic file (type pdf)
+
+<use exp_euler_energy-eps-converted-to.pdf>
+Package pdftex.def Info: exp_euler_energy-eps-converted-to.pdf used on input li
+ne 51.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+ [2 <./exp_euler_max_err-eps-converted-to.pdf> <./exp_euler_energy-eps-converte
+d-to.pdf>]
+Package epstopdf Info: Source file: <imp_euler.eps>
+(epstopdf)                    date: 2017-11-13 00:41:20
+(epstopdf)                    size: 28674 bytes
+(epstopdf)             Output file: <imp_euler-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:03
+(epstopdf)                    size: 19800 bytes
+(epstopdf)             Command: <repstopdf --outfile=imp_euler-eps-converted-to
+.pdf imp_euler.eps>
+(epstopdf)             \includegraphics on input line 81.
+Package epstopdf Info: Output file is already uptodate.
+
+<imp_euler-eps-converted-to.pdf, id=166, 433.62pt x 289.08pt>
+File: imp_euler-eps-converted-to.pdf Graphic file (type pdf)
+
+<use imp_euler-eps-converted-to.pdf>
+Package pdftex.def Info: imp_euler-eps-converted-to.pdf used on input line 81.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+Package epstopdf Info: Source file: <imp_euler_err.eps>
+(epstopdf)                    date: 2017-11-13 00:41:20
+(epstopdf)                    size: 28847 bytes
+(epstopdf)             Output file: <imp_euler_err-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:04
+(epstopdf)                    size: 19756 bytes
+(epstopdf)             Command: <repstopdf --outfile=imp_euler_err-eps-converte
+d-to.pdf imp_euler_err.eps>
+(epstopdf)             \includegraphics on input line 88.
+Package epstopdf Info: Output file is already uptodate.
+
+<imp_euler_err-eps-converted-to.pdf, id=167, 433.62pt x 289.08pt>
+File: imp_euler_err-eps-converted-to.pdf Graphic file (type pdf)
+
+<use imp_euler_err-eps-converted-to.pdf>
+Package pdftex.def Info: imp_euler_err-eps-converted-to.pdf used on input line 
+88.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+Package epstopdf Info: Source file: <imp_euler_max_err.eps>
+(epstopdf)                    date: 2017-11-13 00:41:21
+(epstopdf)                    size: 21101 bytes
+(epstopdf)             Output file: <imp_euler_max_err-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:04
+(epstopdf)                    size: 15953 bytes
+(epstopdf)             Command: <repstopdf --outfile=imp_euler_max_err-eps-conv
+erted-to.pdf imp_euler_max_err.eps>
+(epstopdf)             \includegraphics on input line 95.
+Package epstopdf Info: Output file is already uptodate.
+
+<imp_euler_max_err-eps-converted-to.pdf, id=168, 433.62pt x 289.08pt>
+File: imp_euler_max_err-eps-converted-to.pdf Graphic file (type pdf)
+
+<use imp_euler_max_err-eps-converted-to.pdf>
+Package pdftex.def Info: imp_euler_max_err-eps-converted-to.pdf used on input l
+ine 95.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+Package epstopdf Info: Source file: <imp_euler_energy.eps>
+(epstopdf)                    date: 2017-11-13 00:41:21
+(epstopdf)                    size: 23518 bytes
+(epstopdf)             Output file: <imp_euler_energy-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:05
+(epstopdf)                    size: 17548 bytes
+(epstopdf)             Command: <repstopdf --outfile=imp_euler_energy-eps-conve
+rted-to.pdf imp_euler_energy.eps>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+
+<imp_euler_energy-eps-converted-to.pdf, id=169, 433.62pt x 289.08pt>
+File: imp_euler_energy-eps-converted-to.pdf Graphic file (type pdf)
+
+<use imp_euler_energy-eps-converted-to.pdf>
+Package pdftex.def Info: imp_euler_energy-eps-converted-to.pdf used on input li
+ne 102.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+ [3 <./imp_euler-eps-converted-to.pdf> <./imp_euler_err-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <exp_imp_phase.eps>
+(epstopdf)                    date: 2017-11-13 00:41:21
+(epstopdf)                    size: 33905 bytes
+(epstopdf)             Output file: <exp_imp_phase-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:05
+(epstopdf)                    size: 20375 bytes
+(epstopdf)             Command: <repstopdf --outfile=exp_imp_phase-eps-converte
+d-to.pdf exp_imp_phase.eps>
+(epstopdf)             \includegraphics on input line 116.
+Package epstopdf Info: Output file is already uptodate.
+
+<exp_imp_phase-eps-converted-to.pdf, id=253, 433.62pt x 289.08pt>
+File: exp_imp_phase-eps-converted-to.pdf Graphic file (type pdf)
+
+<use exp_imp_phase-eps-converted-to.pdf>
+Package pdftex.def Info: exp_imp_phase-eps-converted-to.pdf used on input line 
+116.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+Package epstopdf Info: Source file: <symp_phase.eps>
+(epstopdf)                    date: 2017-11-13 00:41:22
+(epstopdf)                    size: 28894 bytes
+(epstopdf)             Output file: <symp_phase-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:06
+(epstopdf)                    size: 18474 bytes
+(epstopdf)             Command: <repstopdf --outfile=symp_phase-eps-converted-t
+o.pdf symp_phase.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+<symp_phase-eps-converted-to.pdf, id=254, 433.62pt x 289.08pt>
+File: symp_phase-eps-converted-to.pdf Graphic file (type pdf)
+
+<use symp_phase-eps-converted-to.pdf>
+Package pdftex.def Info: symp_phase-eps-converted-to.pdf used on input line 125
+.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+Package epstopdf Info: Source file: <symp_energy.eps>
+(epstopdf)                    date: 2017-11-13 00:41:22
+(epstopdf)                    size: 25316 bytes
+(epstopdf)             Output file: <symp_energy-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-11-18 15:36:07
+(epstopdf)                    size: 18201 bytes
+(epstopdf)             Command: <repstopdf --outfile=symp_energy-eps-converted-
+to.pdf symp_energy.eps>
+(epstopdf)             \includegraphics on input line 134.
+Package epstopdf Info: Output file is already uptodate.
+
+<symp_energy-eps-converted-to.pdf, id=255, 433.62pt x 289.08pt>
+File: symp_energy-eps-converted-to.pdf Graphic file (type pdf)
+
+<use symp_energy-eps-converted-to.pdf>
+Package pdftex.def Info: symp_energy-eps-converted-to.pdf used on input line 13
+4.
+(pdftex.def)             Requested size: 151.76927pt x 101.1795pt.
+ [4 <./imp_euler_max_err-eps-converted-to.pdf> <./imp_euler_energy-eps-converte
+d-to.pdf>] [5 <./exp_imp_phase-eps-converted-to.pdf> <./symp_phase-eps-converte
+d-to.pdf> <./symp_energy-eps-converted-to.pdf>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 10001 strings out of 493014
- 180091 string characters out of 6133351
- 213010 words of memory out of 5000000
- 13513 multiletter control sequences out of 15000+600000
- 3939 words of font info for 15 fonts, out of 8000000 for 9000
+ 10104 strings out of 493014
+ 182548 string characters out of 6133351
+ 217099 words of memory out of 5000000
+ 13587 multiletter control sequences out of 15000+600000
+ 8715 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,1n,42p,10380b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 40i,10n,42p,10380b,275s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2016/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on main.pdf (5 pages, 287360 bytes).
+PDF statistics:
+ 472 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
